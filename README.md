@@ -2,7 +2,7 @@
 
 </p>
 <a href="https://alpdraw.carrd.co/#">
-  <img align="right" src="https://github.com/user-attachments/assets/b81f2376-5774-49af-856e-b55ac868e328" alt="Logo ALP" width="120"/>
+  <img align="right" src="https://github.com/user-attachments/assets/8d8deb30-d9f7-44dd-9f34-d4641481c8e2" alt="Logo ALP" width="120"/>
 </a>
   <a href="https://alpdraw.carrd.co/#">
     <img src="https://img.shields.io/badge/WEBSITE-ff6b6b?style=for-the-badge&logo=carrd&logoColor=white" />
