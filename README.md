@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="logo.gif" alt="Logo ALP" width="500" />
-</div>
+
+![Uploading logo.gif…]()
 
 <p align="center">Learning programming and data analysis.
 
