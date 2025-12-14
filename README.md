@@ -1,5 +1,5 @@
 
-![Uploading logo.gif…]()
+![logo](https://github.com/user-attachments/assets/b3b8b153-e54b-42f1-ae23-3411f7d6a3a1)
 
 <p align="center">Learning programming and data analysis.
 
