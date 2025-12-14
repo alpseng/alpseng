@@ -25,5 +25,6 @@ I am an **Electrical Engineering** student at **Universidade Federal Fluminense 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpseng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&align=center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpseng&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpseng&layout=compact&theme=dracula&hide_border=true"/>
 </p>
