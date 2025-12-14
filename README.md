@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="logo.gif" alt="Logo ALP" width="300" />
+  <img src="logo.gif" alt="Logo ALP" width="100" />
 </div>
 
-<p align="center">"Learning programming and data analysis."
+<p align="center">Learning programming and data analysis.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alpseng/">
