@@ -1,11 +1,9 @@
-<a href="https://alpdraw.carrd.co/#">
-  <img align="right" src="https://github.com/user-attachments/assets/e4665458-c8a5-40a7-98e5-5004f25acfbd" alt="Logo ALP" width="180"/>
-</a>
-
-
 # Hello there, I'm ALP 👋
 
 </p>
+<a href="https://alpdraw.carrd.co/#">
+  <img align="right" src="https://github.com/user-attachments/assets/183a232e-67fd-4f4e-b15a-8e7a09714571" alt="Logo ALP" width="180"/>
+</a>
   <a href="https://alpdraw.carrd.co/#">
     <img src="https://img.shields.io/badge/WEBSITE-ff6b6b?style=for-the-badge&logo=carrd&logoColor=white" />
   </a>
@@ -19,6 +17,7 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 I am an **Electrical Engineering** student at **Universidade Federal Fluminense (UFF)**, bridging the gap between rigorous mathematical foundations and modern **Data Science**.
 
