@@ -2,9 +2,8 @@
   <img align="right" src="logo.gif" alt="Logo ALP" width="180"/>
 </a>
 
-# Hello there, I'm ALP Santos 👋
+# Hello there, I'm ALP 👋
 
-<p>
   <a href="https://alpdraw.carrd.co/#">
     <img src="https://img.shields.io/badge/WEBSITE-ff6b6b?style=for-the-badge&logo=carrd&logoColor=white" />
   </a>
@@ -17,7 +16,6 @@
   <a href="mailto:alpsantos.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 
 I am an **Electrical Engineering** student at **Universidade Federal Fluminense (UFF)**, bridging the gap between rigorous mathematical foundations and modern **Data Science**.
 
